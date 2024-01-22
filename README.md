@@ -8,7 +8,7 @@
 <img src="https://tinypic.host/images/2023/12/12/js.png" width="30px">
 <img src="https://www.pinclipart.com/picdir/big/147-1475273_hot-to-reset-reinitialise-a-git-repository-git.png" width="30px">
 <img src="https://www.pngplay.com/wp-content/uploads/12/GitHub-PNG-HD-Quality.png" width="30px">
-<img src="https://image.pngaaa.com/927/94927-middle.png" width="30px">
+<img src="https://www.pngfind.com/pngs/m/16-162397_github-logo-logo-github-hd-png-download.png" width="30px">
 
 <!---
 AsilbekTursunov/AsilbekTursunov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
