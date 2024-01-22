@@ -7,7 +7,6 @@
 <img src="https://gas-kvas.com/uploads/posts/2023-02/1675463198_gas-kvas-com-p-fonovii-risunok-v-css3-3.png" width="30px">
 <img src="https://tinypic.host/images/2023/12/12/js.png" width="30px">
 <img src="https://www.pinclipart.com/picdir/big/147-1475273_hot-to-reset-reinitialise-a-git-repository-git.png" width="30px">
-<img src="https://www.pngplay.com/wp-content/uploads/12/GitHub-PNG-HD-Quality.png" width="30px">
 <img src="https://www.pngfind.com/pngs/m/16-162397_github-logo-logo-github-hd-png-download.png" width="30px">
 
 <!---
