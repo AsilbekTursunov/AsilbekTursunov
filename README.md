@@ -12,6 +12,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_168875.png" width="30px">
 <img src="https://v4.mui.com/static/logo.png" width="30px">
 <img src="https://seekvectors.com/files/download/Redux-01.png" width="30px"> 
+<img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="30px" style> 
 
 <!---
 AsilbekTursunov/AsilbekTursunov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
