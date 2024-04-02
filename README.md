@@ -13,9 +13,14 @@
 <img src="https://v4.mui.com/static/logo.png" width="30px">
 <img src="https://seekvectors.com/files/download/Redux-01.png" width="30px"> 
 <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="30px" style> 
+<br/>
 My portfolio project
+<br/>
 <a href="https://asilbektursunov.github.io/tp-movie/" target="_blank">Tp New Movies</a>
-<a href="https://asilbektursunov.github.io/info-store/" target="_blank">Tp New Movies</a>
+<br/>
+<a href="https://asilbektursunov.github.io/info-store/" target="_blank">Info Store</a>
+<br/>
+<a href="https://asilbektursunov.github.io/brainwave/" target="_blank">Brainwave</a>
 
 <!---
 AsilbekTursunov/AsilbekTursunov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
