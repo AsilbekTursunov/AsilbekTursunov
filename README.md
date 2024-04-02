@@ -16,11 +16,11 @@
 <br/>
 My portfolio project
 <br/>
-<a href="https://asilbektursunov.github.io/tp-movie/" target="_blank">Tp New Movies</a>
+<a href="https://asilbektursunov.github.io/tp-movie/" target="blank">Tp New Movies</a>
 <br/>
-<a href="https://asilbektursunov.github.io/info-store/" target="_blank">Info Store</a>
+<a href="https://asilbektursunov.github.io/info-store/" target="blank">Info Store</a>
 <br/>
-<a href="https://asilbektursunov.github.io/brainwave/" target="_blank">Brainwave</a>
+<a href="https://asilbektursunov.github.io/brainwave/" target="blank">Brainwave</a>
 
 <!---
 AsilbekTursunov/AsilbekTursunov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
