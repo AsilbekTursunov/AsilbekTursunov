@@ -14,6 +14,8 @@
 <img src="https://seekvectors.com/files/download/Redux-01.png" width="30px"> 
 <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="30px" style> 
 
+<a href="https://asilbektursunov.github.io/tp-movie/" target="blank">Tp New Movies</a>
+
 <!---
 AsilbekTursunov/AsilbekTursunov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
