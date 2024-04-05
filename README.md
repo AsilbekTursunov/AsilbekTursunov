@@ -17,11 +17,11 @@
 <br/>
 My portfolio project
 <br/>
-<a href="https://asilbektursunov.github.io/tp-movie/" target="blank">Tp New Movies</a>
+<a href="https://asilbektursunov.github.io/tp-movie/" target="blank">Tp New Movies</a> New Upcoming Movies website  from TMDB
 <br/>
-<a href="https://asilbektursunov.github.io/info-store/" target="blank">Info Store</a>
+<a href="https://asilbektursunov.github.io/info-store/" target="blank">Info Store</a> Info Store ReactJs Knowledge Practice
 <br/>
-<a href="https://asilbektursunov.github.io/brainwave/" target="blank">Brainwave</a>
+<a href="https://asilbektursunov.github.io/brainwave/" target="blank">Brainwave</a> Tailwind Practice website
 
 <!---
 AsilbekTursunov/AsilbekTursunov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
