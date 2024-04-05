@@ -7,6 +7,7 @@
 <img src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" width="40px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="40px">
 <img src="https://tinypic.host/images/2023/12/12/js.png" width="30px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="30px">
 <img src="https://www.pinclipart.com/picdir/big/147-1475273_hot-to-reset-reinitialise-a-git-repository-git.png" width="30px">
 <img src="https://www.pngfind.com/pngs/m/16-162397_github-logo-logo-github-hd-png-download.pngttps://habrastorage.org/webt/bf/6m/q3/bf6mq3wmejwlzxaiuiseo0idri0.png" width="30px">
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_168875.png" width="30px">
