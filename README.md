@@ -1,19 +1,30 @@
-- 👋 Hi, I’m @AsilbekTursunov. I’m interested in ...Front-End Development. I’m currently learning programminng languages.
+<h1 align="center">Hi 👋, I'm Asilbek</h1>
+<h3 align="center">A passionate frontend developer from Uzbekistan Hi, I’m Asilbek. I’m interested in ...Front-End Development. I’m currently learning programming languages</h3>
 
- MY SKILLS
- <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Devicon-html5-plain.svg/1200px-Devicon-html5-plain.svg.png" width="30px">
-<img src="https://gas-kvas.com/uploads/posts/2023-02/1675463198_gas-kvas-com-p-fonovii-risunok-v-css3-3.png" width="30px">
-<img src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" width="40px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="40px">
-<img src="https://tinypic.host/images/2023/12/12/js.png" width="30px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="30px">
-<img src="https://www.pinclipart.com/picdir/big/147-1475273_hot-to-reset-reinitialise-a-git-repository-git.png" width="30px">
-<img src="https://www.pngfind.com/pngs/m/16-162397_github-logo-logo-github-hd-png-download.pngttps://habrastorage.org/webt/bf/6m/q3/bf6mq3wmejwlzxaiuiseo0idri0.png" width="30px">
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_168875.png" width="30px">
-<img src="https://v4.mui.com/static/logo.png" width="30px">
-<img src="https://seekvectors.com/files/download/Redux-01.png" width="30px"> 
-<img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="30px" style> 
+- 👨‍💻 All of my projects are available at [https://github.com/AsilbekTursunov](https://github.com/AsilbekTursunov)
+
+- 💬 Ask me about **React JavaScript and Typescript**
+
+- 📫 How to reach me **asilbekt84@gmail.com**
+
+- 📄 Know about my experiences [https://tashkent.hh.uz/applicant/resumes?hhtmFrom=main&hhtmFromLabel=header](https://tashkent.hh.uz/applicant/resumes?hhtmFrom=main&hhtmFromLabel=header)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/asilbektursunov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asilbektursunov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/asilbek-tursunov-03236220a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asilbek-tursunov-03236220a/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/mufeed.visualization" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mufeed.visualization" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/mufeed.visualization/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mufeed.visualization/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asilbektursunov&show_icons=true&locale=en&layout=compact" alt="asilbektursunov" /></p>
+
+<br/>
+<br/>
+<br/>
 <br/>
 My portfolio project
 <br/>
