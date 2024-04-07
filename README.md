@@ -23,7 +23,7 @@ My portfolio project
 <br/>
 <a  href="https://asilbektursunov.github.io/brainwave/" target="_blank">   Brainwave</a> Tailwind Practice website
 <br/>
-<a  href="https://portfolio-crypto-react-app.netlify.app" target="_blank"> </a>  Cryptocurrecy real app   Tailwind, ReduxToolkit, AntDesign Practice website
+<a  href="https://portfolio-crypto-react-app.netlify.app" target="_blank"> Cryptocurrecy real app </a>     Tailwind, ReduxToolkit, AntDesign Practice website
 
 
 <!---
