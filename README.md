@@ -17,11 +17,14 @@
 <br/>
 My portfolio project
 <br/>
-<a href="https://asilbektursunov.github.io/tp-movie/" target="blank">Tp New Movies</a> New Upcoming Movies website  from TMDB
+<a  href="https://asilbektursunov.github.io/tp-movie/" target="_blank">   Tp New Movies</a> New Upcoming Movies website  from TMDB
 <br/>
-<a href="https://asilbektursunov.github.io/info-store/" target="blank">Info Store</a> Info Store ReactJs Knowledge Practice
+<a  href="https://asilbektursunov.github.io/info-store/" target="_blank">  Info Store</a> Info Store ReactJs Knowledge Practice
 <br/>
-<a href="https://asilbektursunov.github.io/brainwave/" target="blank">Brainwave</a> Tailwind Practice website
+<a  href="https://asilbektursunov.github.io/brainwave/" target="_blank">   Brainwave</a> Tailwind Practice website
+<br/>
+<a  href="https://portfolio-crypto-react-app.netlify.app" target="_blank"> </a>  Cryptocurrecy real app   Tailwind, ReduxToolkit, AntDesign Practice website
+
 
 <!---
 AsilbekTursunov/AsilbekTursunov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
