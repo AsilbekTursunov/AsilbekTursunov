@@ -19,7 +19,7 @@
 <br/>
 My portfolio project
 <br/>
-<a  href="https://asilbektursunov.github.io/tp-movie/" target="_blank">   Tp New Movies</a> New Upcoming Movies website  from TMDB
+<a  href="https://react-moviex-app.netlify.app" target="_blank">   MovieX</a> New Upcoming Movies website  from TMDB
 <br/>
 <a  href="https://asilbektursunov.github.io/info-store/" target="_blank">  Info Store</a> Info Store ReactJs Knowledge Practice
 <br/>
