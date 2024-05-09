@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asilbek</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan Hi, I’m Asilbek. I’m interested in ...Front-End Development. I’m currently learning programming languages</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/AsilbekTursunov](https://github.com/AsilbekTursunov)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/AsilbekTursunov">Here</a>
 
 - 💬 Ask me about **React JavaScript and Typescript**
 
