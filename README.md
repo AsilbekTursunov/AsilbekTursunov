@@ -30,6 +30,8 @@ My portfolio project
 <a  href="https://fazo-online-shop.netlify.app/" target="_blank"> Fazo online shop </a>     Tailwind, ReduxToolkit, ReactJs Practice website Free Api
 <br/>
 <a  href="https://asilbek-nextjs-blog-app.vercel.app/" target="_blank"> IT Articles Blog </a>     MaterialUi,  NextJs Practice website
+<br/>
+<a  href="https://cookpal-six.vercel.app/" target="_blank"> Meals recipe website </a>     Nextjs 14,  Tailwind, Shadcn, Typescript and SSR Practice website
 
 
 <!---
