@@ -31,7 +31,9 @@ My portfolio project
 <br/>
 <a  href="https://asilbek-nextjs-blog-app.vercel.app/" target="_blank"> IT Articles Blog </a>     MaterialUi,  NextJs Practice website
 <br/>
-<a  href="https://cookpal-six.vercel.app/" target="_blank"> Meals recipe website </a>     Nextjs 14,  Tailwind, Shadcn, Typescript and SSR Practice website
+<a  href="https://asilbek-nextjs-blog-app.vercel.app/" target="_blank"> IT Articles Blog </a>     MaterialUi,  NextJs Practice website
+<br/>
+<a  href="https://udev-clone.vercel.app/en" target="_blank"> Udev website clone </a>     Nextjs 14,  Tailwind,  Practice website
 
 
 <!---
