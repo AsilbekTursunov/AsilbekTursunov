@@ -34,6 +34,8 @@ My portfolio project
 <a  href="https://asilbek-nextjs-blog-app.vercel.app/" target="_blank"> IT Articles Blog </a>     MaterialUi,  NextJs Practice website
 <br/>
 <a  href="https://udev-clone.vercel.app/en" target="_blank"> Udev website clone </a>     Nextjs 14,  Tailwind,  Practice website
+<br/>
+<a  href="https://gym-traning-9e098.firebaseapp.com" target="_blank"> Workout Time </a>     React.Js,  Tailwind,  Firebase, Zustand, Shadcn, Practice website
 
 
 <!---
