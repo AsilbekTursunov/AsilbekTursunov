@@ -25,7 +25,7 @@ My portfolio project
 <br/>
 <a  href="https://asilbektursunov.github.io/brainwave/" target="_blank">   Brainwave</a> Tailwind Practice website
 <br/>
-<a  href="https://portfolio-crypto-react-app.netlify.app" target="_blank"> Cryptocurrecy real app </a>     Tailwind, ReduxToolkit, AntDesign Practice website
+<a  href="https://cryptverse-app.netlify.app/" target="_blank"> Cryptocurrecy real app </a>     Tailwind, ReduxToolkit, AntDesign Practice website
 <br/>
 <a  href="https://fazo-online-shop.netlify.app/" target="_blank"> Fazo online shop </a>     Tailwind, ReduxToolkit, ReactJs Practice website Free Api
 <br/>
