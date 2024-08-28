@@ -31,7 +31,7 @@ My portfolio project
 <br/>
 <a  href="https://asilbek-nextjs-blog-app.vercel.app/" target="_blank"> IT Articles Blog </a>     MaterialUi,  NextJs Practice website
 <br/>
-<a  href="https://asilbek-nextjs-blog-app.vercel.app/" target="_blank"> IT Articles Blog </a>     MaterialUi,  NextJs Practice website
+<a  href="https://asilbek-dev-blogs.vercel.app/" target="_blank">Dev Blogs </a>   Typescript  Tailwind, Hygraph GrapgQl  NextJs SEO Practice website 
 <br/>
 <a  href="https://udev-clone.vercel.app/en" target="_blank"> Udev website clone </a>     Nextjs 14,  Tailwind,  Practice website
 <br/>
