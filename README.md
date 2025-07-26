@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Next.js Redux, TS | JS**
 
-- 📫 How to reach me **asilbekt@gmail.com**
+- 📫 How to reach me **asilbekt84@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
