@@ -1,44 +1,18 @@
-<h1 align="center">Hi 👋, I'm Asilbek</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan Hi, I’m Asilbek. I’m interested in ...Front-End Development. I’m currently learning programming languages</h3>
+<h1 align="center">Hi 👋, I'm Asilbek Tursunov</h1>
+<h3 align="center">Self-motivated Frontend Developer with 2 years of experience in building modern and responsive web applications using React and Vue. Successfully completed over 20 personal and team-based projects, gaining strong skills in component-based architecture, state management, and UI libraries. Learned through self-study and online courses, demonstrating the ability to quickly adapt, solve problems, and deliver quality solutions. Passionate about writing clean code, improving user experience, and contributing to collaborative development environments.</h3>
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/AsilbekTursunov">Here</a>
+- 🌱 I’m currently learning Webpack **Sammi.ac**
 
-- 💬 Ask me about **React JavaScript and Typescript**
+- 👨‍💻 All of my projects are available at [asilbek-tursunov.uz](asilbek-tursunov.uz)
 
-- 📫 How to reach me **asilbekt84@gmail.com**
+- 💬 Ask me about **React, Next.js Redux, TS | JS**
 
-- 📄 Know about my experiences [https://tashkent.hh.uz/applicant/resumes?hhtmFrom=main&hhtmFromLabel=header](https://tashkent.hh.uz/applicant/resumes?hhtmFrom=main&hhtmFromLabel=header)
- 
+- 📫 How to reach me **asilbekt@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/asilbek-tursunov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asilbek-tursunov/" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrap" width="50" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt="typescript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"  rel="noreferrer"> <img src="https://logojinni.com/image/logos/next-js.svg" alt="nextjs" width="40" height="40"/> </a>  </p>  
-
- 
-
-<br/>
-<br/>
-My portfolio project
-<br/>
-<a  href="https://react-moviex-app.netlify.app" target="_blank">   MovieX</a> New Upcoming Movies website  from TMDB
-<br/>
-<a  href="https://asilbektursunov.github.io/info-store/" target="_blank">  Info Store</a> Info Store ReactJs Knowledge Practice
-<br/>
-<a  href="https://asilbektursunov.github.io/brainwave/" target="_blank">   Brainwave</a> Tailwind Practice website
-<br/>
-<a  href="https://cryptverse-app.netlify.app/" target="_blank"> Cryptocurrecy real app </a>     Tailwind, ReduxToolkit, AntDesign Practice website
-<br/>
-<a  href="https://fazo-online-shop.netlify.app/" target="_blank"> Fazo online shop </a>     Tailwind, ReduxToolkit, ReactJs Practice website Free Api
-<br/>
-<a  href="https://asilbek-nextjs-blog-app.vercel.app/" target="_blank"> IT Articles Blog </a>     MaterialUi,  NextJs Practice website
-<br/>
-<a  href="https://asilbek-dev-blogs.vercel.app/" target="_blank">Dev Blogs </a>   Typescript  Tailwind, Hygraph GrapgQl  NextJs SEO Practice website 
-<br/>
-<a  href="https://udev-clone.vercel.app/en" target="_blank"> Udev website clone </a>     Nextjs 14,  Tailwind,  Practice website
-<br/>
-<a  href="https://gym-traning-9e098.firebaseapp.com" target="_blank"> Workout Time </a>     React.Js,  Tailwind,  Firebase, Zustand, Shadcn, Practice website
-
-
-<!---
-AsilbekTursunov/AsilbekTursunov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
